@@ -1,2 +1,2 @@
 # TASK8_ARTH
-Create a Menu Using Python integrations
+A Menu Driven Program that does integration & Automation using Python(includes several technolgies-docker,AWS,hadoop,linux,etc)
